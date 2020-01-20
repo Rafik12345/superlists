@@ -4,3 +4,4 @@ virtualenv
 __pycache__
 *.pyc
 tdd-book.sublime-workspace
+/static
